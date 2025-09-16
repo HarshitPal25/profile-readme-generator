@@ -1,14 +1,14 @@
 
-# Hi There 👋, I am Harshit Pal
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Harshit25)]
+# Hi There 👋, I am harshit pal
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HarshitPal25)]
 ## 🚀 About Me
-my name is harshit
+bfsd
 ## 🛠️ Skills
-java, python, c++
+sdf
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit25&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshitPal25&show_icons=true&theme=radical)
 ## 🌐 Connect with me
-[LinkdIn](no)
+[LinkdIn](s)
 
-![snake gif](https://github.com/Harshit25/Harshit25/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/HarshitPal25/HarshitPal25/blob/output/github-snake-dark.svg)
         
