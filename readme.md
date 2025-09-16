@@ -1,55 +1,14 @@
-# Harshit pal 1
+# Hi there 👋, I'm harhsit
 
-```
+## 🚀 About Me
+my name is harshit 
 
-      .--.
-     |o_o |
-     |:_/ |
-    //   \\
-   (|     | )
-  /'\_   _/`\\
-  \___)=(___/
+## 🛠️ Skills
+python, c++, java
 
-```
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gagan10&show_icons=true&theme=radical)
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gadngj)]
-
-jdabhfjbhdffasdj
-
-![python](https://img.shields.io/badge/python-proficient-blue.svg?style=for-the-badge&logo=code) ![Go](https://img.shields.io/badge/Go-proficient-blue.svg?style=for-the-badge&logo=code) ![React](https://img.shields.io/badge/React-proficient-blue.svg?style=for-the-badge&logo=code) [![LinkedIn](https://img.shields.io/badge/LinkedIn-afjejfna-0e76a8.svg?style=for-the-badge&logo=linkedin)](afjejfna) [![Twitter](https://img.shields.io/badge/Twitter-njeafieukan-1DA1F2.svg?style=for-the-badge&logo=twitter)](https://twitter.com/njeafieukan) [![Website](https://img.shields.io/badge/Website-portfolio-ff69b4.svg?style=for-the-badge&logo=google-chrome)](iauefniaue)
-
----
-
-## 🔭 I'm currently
-python c++ etc
-
-## 🌱 I’m learning
-python java etc
-
-## 👯 I’m looking to collaborate on
-djnago
-
-## 💬 Ask me about
-anything
-
-## 📫 How to reach me
-Email: [harshrit.@gmail.cm](mailto:harshrit.@gmail.cm)  
-GitHub: [gadngj](https://github.com/gadngj)  
-LinkedIn: afjejfna
-
-## ⚡ Fun fact
-i am gamer
-
----
-
-### 🛠️ Skills & Tools
-- python
-
----
-
-### 📂 Projects
-- No projects listed yet
-
----
-
-Last updated: 2025-09-16
+## 🌐 Connect with me
+- [LinkedIn](sdmns)
+- [Twitter](fajdsn)
