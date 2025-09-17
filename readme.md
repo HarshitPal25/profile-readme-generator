@@ -1,14 +1,16 @@
 
-# Hi There 👋, I am harshit pal
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HarshitPal25)]
+# Hi There 👋, I am Harshit pal
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=)]
 ## 🚀 About Me
-bfsd
+MY name is hahjfdnasf
 ## 🛠️ Skills
-sdf
+java, c++
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshitPal25&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
 ## 🌐 Connect with me
-[LinkdIn](s)
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 
-![snake gif](https://github.com/HarshitPal25/HarshitPal25/blob/output/github-snake-dark.svg)
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+
+![snake gif](https://github.com///blob/output/github-snake-dark.svg)
         

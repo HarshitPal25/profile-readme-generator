@@ -116,6 +116,7 @@ def generate_readme():
     skills = input("Enter your skills(Comma seperated): ")
     github_username= input("Enter your github username: ")
     linkdin = input("Enter you linkdin URL: ")
+    instagram = input("Enter your instagram Username: ")
 
     readme = f"""
 # Hi There 👋, I am {name}
@@ -127,7 +128,9 @@ def generate_readme():
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username={github_username}&show_icons=true&theme=radical)
 ## 🌐 Connect with me
-[LinkdIn]({linkdin})
+<a href="{linkdin}" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="{linkdin}" height="30" width="40" /></a>
+
+<a href="https://instagram.com/{instagram}" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="{instagram}" height="30" width="40" /></a>
 
 ![snake gif](https://github.com/{github_username}/{github_username}/blob/output/github-snake-dark.svg)
         """
